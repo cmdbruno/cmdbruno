@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Bruno Almeida de Carvalho!
+# 👋 Olá, eu sou o Bruno Almeida!
 
 🎯 **Analista de Suporte | Infraestrutura de TI | Microsoft 365 | PowerShell**
 
