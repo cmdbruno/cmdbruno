@@ -52,8 +52,9 @@ Currently working with **enterprise-grade infrastructures**, supporting **missio
 ### 🌐 Networking & Security
 ![DNS](https://img.shields.io/badge/DNS-%23000000)
 ![DHCP](https://img.shields.io/badge/DHCP-%23000000)
-![pfSense](https://img.shields.io/badge/pfSense-%23212121?logo=pfsense&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-%23000000)
+![SonicWall](https://img.shields.io/badge/SonicWall-%23FF6600?logo=sonicwall&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-%23212121?logo=pfsense&logoColor=white)
 
 ---
 
