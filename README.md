@@ -165,7 +165,7 @@ High Availability & Mission-Critical Systems
 
 📫 Let’s Connect
 
-💼 LinkedIn: linkedin.com/in/brunoalmeidacarvalho
+💼 LinkedIn: https://www.linkedin.com/in/brunoalmeidacarvalho/
 
 📧 Email: bruno.almeidacarvalho@hotmail.com
 
