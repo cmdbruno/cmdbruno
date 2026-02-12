@@ -77,11 +77,6 @@ Currently working with **enterprise-grade infrastructures**, supporting **missio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmdbruno&show_icons=true&theme=radical&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdbruno&layout=compact&theme=radical&cache_seconds=86400" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=cmdbruno&theme=radical&cache_seconds=86400" />
 </p>
 
