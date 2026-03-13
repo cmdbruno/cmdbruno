@@ -1,80 +1,72 @@
 <h1 align="center">👋 Hi, I'm Bruno Almeida</h1>
 
 <p align="center">
-🚀 Linux Server Administrator | Infrastructure & DevOps Engineer  
-💻 Enterprise Infrastructure · Automation · High Availability · Cloud & On-Prem
+🚀 <b>Linux Server Administrator II | DevOps & SRE Specialist</b><br>
+🌐 Enterprise Infrastructure · High Availability · Multi-Cloud · Critical Environments
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmdbruno&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdbruno&layout=compact&theme=radical&hide_langs_below=1" height="170em" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m an **Infrastructure and DevOps professional** with strong hands-on experience managing **large-scale Linux and hybrid environments**, focused on **automation, reliability, security, and scalability**.
+I am a **Linux Systems Administrator & DevOps Engineer** passionate about automation, reliability, and observability for mission-critical systems. Currently, I manage an enterprise-grade infrastructure of **over 7,000 servers** (Linux/Windows) across on-premises and multi-cloud environments.
 
-Currently working with **enterprise-grade infrastructures**, supporting **mission-critical systems** across **on-prem, cloud, and multicloud environments**.
+* ⚙️ **Infrastructure at Scale:** Expertise in Change Management (GMUD), migrations, and supporting high-availability mission-critical applications (IBM Maximo, WebSphere, JBoss).
+* 🚀 **DevOps & CI/CD:** Building and maintaining automated deployment pipelines using **Jenkins** and **GitLab CI**.
+* ☸️ **Orchestration:** Hands-on experience with **Kubernetes**, **Red Hat OpenShift**, and **Docker** for scalable workloads.
+* 📈 **Observability:** Ensuring end-to-end performance monitoring and incident prevention using **Dynatrace**, **Zabbix**, and **Grafana**.
+* 🛡️ **Network & Security:** Hardening environments with **pfSense**, **SonicWall**, and VPN architectures.
 
 ---
 
 ## 🛠️ Core Skills & Technologies
 
-### 🖥️ Operating Systems & Platforms
+### 🖥️ OS, Virtualization & Databases
 ![Linux](https://img.shields.io/badge/Linux-%23000000?logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-%23A81D33?logo=debian&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000?logo=redhat&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D6?logo=windows&logoColor=white)
+![Xen](https://img.shields.io/badge/Xen-%23002E5D?logo=xen&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white)
 
----
+### 🧩 DevOps, CI/CD & Observability
 
-### ☁️ Cloud & Enterprise Platforms
-![Azure](https://img.shields.io/badge/Azure-%230072C6?logo=microsoft-azure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-%23D83B01?logo=microsoft&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&logoColor=white)
 
----
+[Image of CI/CD pipeline architecture]
 
-### 🧩 Containers & DevOps
-![Docker](https://img.shields.io/badge/Docker-%23007ACC?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%231326BF?logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000?logo=redhatopenshift&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?logo=ansible&logoColor=white)
-
----
-
-### 🚀 CI/CD
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FC6D26?logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232172B7?logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FC6D26?logo=gitlab&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-%23000000?logo=dynatrace&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000?logo=redhatopenshift&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?logo=ansible&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-%23CC0000?logo=zabbix&logoColor=white)
 
----
-
-### 🌐 Networking & Security
-![DNS](https://img.shields.io/badge/DNS-%23000000)
-![DHCP](https://img.shields.io/badge/DHCP-%23000000)
-![VPN](https://img.shields.io/badge/VPN-%23000000)
-![SonicWall](https://img.shields.io/badge/SonicWall-%23FF6600?logo=sonicwall&logoColor=white)
+### ☁️ Cloud & Networking
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6?logo=microsoft-azure&logoColor=white)
+![Aviatrix](https://img.shields.io/badge/Aviatrix-%23EE3324?logo=aviatrix&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-%23212121?logo=pfsense&logoColor=white)
 
 ---
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000?logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927?logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)
+## 🎓 Key Certifications
+
+* 🏆 **Multicloud Network Associate** (Aviatrix)
+* 📜 **ITIL 4 Foundation**
+* 🛡️ **Cloud Tech Associate Advanced Security** (Acronis)
+* ☁️ **Microsoft 365 Fundamentals (MS-900)**
 
 ---
 
-## 🤖 Automation & Scripting
-![Bash](https://img.shields.io/badge/Bash-%234EAA25?logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE?logo=powershell&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 📊 Stats & Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cmdbruno&theme=radical&cache_seconds=86400" />
@@ -83,15 +75,16 @@ Currently working with **enterprise-grade infrastructures**, supporting **missio
 ---
 
 ## 📫 Let’s Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/brunoalmeidacarvalho/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white" height="28"/>
   </a>
   <a href="mailto:bruno.almeidacarvalho@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-%23D14836?logo=gmail&logoColor=white" height="28"/>
   </a>
 </p>
 
----
-
-⭐ **Continuously evolving — automation, reliability, and scalable infrastructure first.**
+<p align="center">
+<i>"Continuously evolving — scaling infrastructure with automation and reliability."</i>
+</p>
